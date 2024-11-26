@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fly-high/static/css/main.5c2a98f1.css",
-    "main.js": "/fly-high/static/js/main.db82c1b9.js",
+    "main.js": "/fly-high/static/js/main.14f14795.js",
     "index.html": "/fly-high/index.html",
     "main.5c2a98f1.css.map": "/fly-high/static/css/main.5c2a98f1.css.map",
-    "main.db82c1b9.js.map": "/fly-high/static/js/main.db82c1b9.js.map"
+    "main.14f14795.js.map": "/fly-high/static/js/main.14f14795.js.map"
   },
   "entrypoints": [
     "static/css/main.5c2a98f1.css",
-    "static/js/main.db82c1b9.js"
+    "static/js/main.14f14795.js"
   ]
 }
