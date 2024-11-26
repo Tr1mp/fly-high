@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fly-high/static/css/main.5c2a98f1.css",
+    "main.js": "/fly-high/static/js/main.c949e9ef.js",
+    "index.html": "/fly-high/index.html",
+    "main.5c2a98f1.css.map": "/fly-high/static/css/main.5c2a98f1.css.map",
+    "main.c949e9ef.js.map": "/fly-high/static/js/main.c949e9ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c2a98f1.css",
+    "static/js/main.c949e9ef.js"
+  ]
+}
