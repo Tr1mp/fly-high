@@ -1,0 +1,25 @@
+<svg width="235" height="145" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <path stroke-width="3" id="svg_16" d="m117,134c-27.62431,0 -50,-22.37569 -50,-50c0,-27.62431 22.37569,-50 50,-50c27.62431,0 50,22.37569 50,50c0,27.62431 -22.37569,50 -50,50z" opacity="undefined" stroke="#9acee6" fill="#9acee6"/>
+  <polyline fill="none" stroke="#000" points="-105,81 -104,81 " id="svg_2" stroke-linecap="round"/>
+  <line fill="none" stroke="#000" x1="-365" y1="87" x2="-360" y2="87" id="svg_6"/>
+  <line fill="none" x1="954" y1="353" x2="954" y2="352" id="svg_7" stroke="#000"/>
+  <ellipse fill="none" stroke="#000" cx="917.5" cy="150.5" id="svg_14" rx="0.5" ry="0.5"/>
+  <path fill="none" opacity="undefined" d="m926,225.05907c68.50829,0 124,13.17522 124,29.44093c0,16.26571 -55.49171,29.44093 -124,29.44093c-68.50829,0 -124,2.52661 -124,-29.44093c0,-31.96753 55.49171,-29.44093 124,-29.44093z" id="svg_15" stroke="#000" transform="rotate(-5.66978 926 254.5)"/>
+  <path fill="none" stroke="#000" id="svg_20" d="m1078,400c-1,0 -2,1 -4,0l-1,-1"/>
+  <path stroke-width="3" id="svg_18" d="m167,135l-100,0" opacity="undefined" stroke="#9acee6" fill="#9acee6"/>
+  <path id="svg_19" d="m17,35l200,0" opacity="undefined" stroke-width="3" stroke="#9acee6" fill="#9acee6"/>
+  <path stroke-width="3" id="svg_25" d="m6,18l87,116" opacity="undefined" stroke="#9acee6" fill="#9acee6"/>
+  <line id="svg_26" y2="299" x2="1049" y1="300" x1="1047" stroke="#000" fill="none"/>
+  <path stroke-width="3" stroke="#9acee6" id="svg_27" d="m231,15l-90,120" opacity="undefined" fill="#9acee6"/>
+  <line id="svg_28" y2="35" x2="116" y1="3" x1="116" stroke="#000" fill="none"/>
+  <line id="svg_29" y2="79" x2="-75" y1="81" x1="-77" stroke="#000" fill="none"/>
+  <line id="svg_31" y2="14" x2="127" y1="15" x1="105" stroke="#000" fill="none"/>
+  <line id="svg_33" y2="85" x2="151" y1="86" x1="83" stroke="#000" fill="none"/>
+  <path transform="rotate(-90 116 68.5)" stroke="#ffffff" id="svg_38" d="m110,36l6,0l0,0c3.31371,0 6,14.55074 6,32.49999c0,17.94925 -2.68629,32.49999 -6,32.49999l-6,0l0,-64.99999z" fill="#ffffff"/>
+  <path id="svg_42" d="m59,66c-8.28729,0 -15,-6.71271 -15,-15c0,-8.28729 6.71271,-15 15,-15c8.28729,0 15,5.71271 15,15c0,9.28729 -6.71271,15 -15,15z" opacity="undefined" stroke="#000" fill="#fff"/>
+  <path id="svg_43" d="m174,66c-8.28729,0 -15,-6.71271 -15,-15c0,-8.28729 6.71271,-15 15,-15c8.28729,0 15,5.71271 15,15c0,9.28729 -6.71271,15 -15,15z" opacity="undefined" stroke="#000" fill="#fff"/>
+ </g>
+
+</svg>

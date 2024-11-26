@@ -1,0 +1,31 @@
+.choosingBlock {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px 30px 45px 30px;
+
+  box-shadow: inset 0px 0px 10px 1px rgb(48, 72, 150);
+}
+
+.title {
+  font-size: 30px;
+
+  width: fit-content;
+  padding: 30px;
+  font-weight: 700;
+}
+
+.lessons {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  flex-direction: column;
+  width: 100%;
+}
+
+.tableRow {
+  font-weight: 700 !important;
+  font-size: 20px;
+}

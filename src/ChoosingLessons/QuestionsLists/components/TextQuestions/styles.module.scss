@@ -1,0 +1,64 @@
+.multiBlock {
+  color: #faf6f6;
+  width: 100%;
+  box-shadow: inset 0px 0px 10px 1px rgb(48, 72, 150);
+  padding: 15px;
+  padding: 20px 30px 45px 30px;
+}
+
+.header {
+  font-size: 30px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30px;
+  font-weight: 700;
+  color: #faf6f6;
+}
+
+.title {
+  font-size: 30px;
+  width: 100%;
+  display: flex;
+  padding: 30px;
+  font-weight: 700;
+  color: #faf6f6;
+  justify-content: center;
+}
+
+.variantWrapper {
+  input,
+  label {
+    color: #faf6f6 !important;
+  }
+}
+
+.input {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin: 10px 10px;
+  width: 100%;
+
+  textarea,
+  label {
+    color: #faf6f6 !important;
+  }
+}
+
+.buttonWrapper {
+  margin-top: 20px;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+
+  button {
+    width: 150px;
+  }
+
+  .button {
+    background-color: rgb(110, 110, 110) !important;
+  }
+}

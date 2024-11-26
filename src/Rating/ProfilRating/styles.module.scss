@@ -1,0 +1,34 @@
+.personBlock {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.personPhoto {
+  height: auto !important;
+  width: 200px !important;
+  margin: -20px;
+}
+
+.personalData {
+  font-size: 20px;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  width: 100%;
+}
+
+.name {
+  text-align: center;
+  width: 100%;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.progress {
+  font-size: 20px;
+  display: flex;
+  margin-top: 20px;
+  flex-direction: column;
+  width: 100%;
+}

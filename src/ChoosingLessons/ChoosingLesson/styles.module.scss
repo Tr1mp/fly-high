@@ -1,0 +1,81 @@
+.topicsWrapper {
+  font-size: 20px;
+  //   gap: 15px;
+  width: 100%;
+  //   margin: 0 auto;
+  padding: 0 auto;
+  font-weight: 700;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+.lessonName {
+  border-radius: 30px;
+  position: absolute;
+  background-color: #1565c0;
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+  color: white;
+  top: 0;
+  left: 0;
+  padding: 15px 30px 10px;
+  font-size: 20px;
+  font-weight: 375;
+  letter-spacing: 2px;
+}
+
+.topic {
+  align-items: baseline;
+  display: flex;
+  border-radius: 30px;
+  background-color: #1565c0;
+  width: 300px;
+  height: 200px;
+  justify-content: space-between;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  padding: 0 10px 10px;
+  //   padding: 30px;
+}
+
+.card {
+  height: 90%;
+  width: 100%;
+  background-color: #75aae6;
+  border-radius: 30px;
+  color: rgb(19, 13, 13);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 5px 10px;
+  font-size: 20px;
+  text-align: center;
+}
+.line {
+  width: 90%;
+  height: 20px;
+  border-radius: 10px;
+  background-color: rgb(34, 43, 63);
+}
+
+.progressLine {
+  width: calc(20 / 25 * 100%);
+  height: 20px;
+  border-radius: 10px;
+  background-color: rgb(254, 254, 255);
+}
+
+.progressLine2 {
+  width: 0%;
+  height: 20px;
+  border-radius: 10px;
+  background-color: rgb(254, 254, 255);
+}

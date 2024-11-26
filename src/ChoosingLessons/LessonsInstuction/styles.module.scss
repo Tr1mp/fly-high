@@ -1,0 +1,104 @@
+// .instructionBlock {
+//   color: #faf6f6;
+//   width: 100%;
+//   box-shadow: inset 0px 0px 10px 1px rgb(48, 72, 150);
+//   padding: 15px;
+//   padding: 20px 30px 45px 30px;
+// }
+
+// .title {
+//   font-size: 30px;
+//   margin: 0 auto;
+//   width: fit-content;
+//   padding: 30px;
+//   font-weight: 700;
+//   color: #faf6f6;
+// }
+
+.topicsWrapper {
+  font-size: 20px;
+  //   gap: 15px;
+  width: 100%;
+  //   margin: 0 auto;
+  //   padding: 0 auto;
+  font-weight: 700;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 30px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+
+.lessonName {
+  border-radius: 30px;
+  position: absolute;
+  background-color: #1565c0;
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+  color: white;
+  top: 0;
+  left: 0;
+  padding: 15px 30px 10px;
+  font-size: 20px;
+  font-weight: 375;
+  letter-spacing: 2px;
+}
+
+.topic {
+  align-items: baseline;
+  display: flex;
+  border-radius: 30px;
+  background-color: #1565c0;
+  width: 400px;
+  height: 300px;
+  justify-content: space-between;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  padding: 0 10px 10px;
+  //   padding: 30px;
+}
+
+.card {
+  height: 90%;
+  width: 100%;
+  background-color: #75aae6;
+  border-radius: 30px;
+  color: rgb(19, 13, 13);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 26px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px 5px 10px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.instruction {
+  font-size: 30px;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.buttonWrapper {
+  margin-top: 20px;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+
+  button {
+    width: 150px;
+  }
+
+  .button {
+    background-color: rgb(110, 110, 110) !important;
+  }
+}

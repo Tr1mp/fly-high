@@ -1,0 +1,27 @@
+.instructionBlock {
+  color: #faf6f6;
+  width: 100%;
+  box-shadow: inset 0px 0px 10px 1px rgb(48, 72, 150);
+  padding: 15px;
+  padding: 20px 30px 45px 30px;
+}
+
+.title {
+  font-size: 30px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 30px;
+  font-weight: 700;
+  color: #faf6f6;
+}
+
+.buttonBack {
+  size: 30px !important;
+  color: white !important;
+}
+
+.buttonAdd {
+  size: 30px !important;
+}
