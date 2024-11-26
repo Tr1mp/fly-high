@@ -10,7 +10,7 @@ const CourseTitle = () => {
       <div className={styles.topicsWrapper}>
         <Link
           className={styles.topic}
-          to={"/course/choosingLesson/choosingTopic"}
+          to={"/fly-high/course/choosingLesson/choosingTopic"}
         >
           <div className={styles.lessonName}>Topic 1</div>
           <div className={styles.card}>
@@ -23,7 +23,7 @@ const CourseTitle = () => {
 
         <Link
           className={styles.topic}
-          to={"/course/choosingLesson/choosingTopic"}
+          to={"/fly-high/course/choosingLesson/choosingTopic"}
         >
           <div className={styles.lessonName}>Topic 2</div>
           <div className={styles.card}>
@@ -36,7 +36,7 @@ const CourseTitle = () => {
 
         <Link
           className={styles.topic}
-          to={"/course/choosingLesson/choosingTopic"}
+          to={"/fly-high/course/choosingLesson/choosingTopic"}
         >
           <div className={styles.lessonName}>Topic 3</div>
           <div className={styles.card}>
@@ -49,7 +49,7 @@ const CourseTitle = () => {
 
         <Link
           className={styles.topic}
-          to={"/course/choosingLesson/choosingTopic"}
+          to={"/fly-high/course/choosingLesson/choosingTopic"}
         >
           <div className={styles.lessonName}>Topic 4</div>
           <div className={styles.card}>
@@ -62,7 +62,7 @@ const CourseTitle = () => {
 
         <Link
           className={styles.topic}
-          to={"/course/choosingLesson/choosingTopic"}
+          to={"/fly-high/course/choosingLesson/choosingTopic"}
         >
           <div className={styles.lessonName}>Topic 5</div>
           <div className={styles.card}>
@@ -75,7 +75,7 @@ const CourseTitle = () => {
 
         <Link
           className={styles.topic}
-          to={"/course/choosingLesson/choosingTopic"}
+          to={"/fly-high/course/choosingLesson/choosingTopic"}
         >
           <div className={styles.lessonName}>Topic 6</div>
           <div className={styles.card}>

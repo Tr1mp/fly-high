@@ -7,7 +7,7 @@ const ChoosingLesson = () => {
   return (
     <PageWrapper header={{ title: "Assessment of knowledge" }}>
       <div className={styles.topicsWrapper}>
-        <Link className={styles.topic} to={"/lesson/instruction"}>
+        <Link className={styles.topic} to={"/fly-high/lesson/instruction"}>
           <div className={styles.lessonName}>20/25</div>
           <div className={styles.card}>
             English
@@ -17,7 +17,7 @@ const ChoosingLesson = () => {
           </div>
         </Link>
 
-        <Link className={styles.topic} to={"/lesson/instruction"}>
+        <Link className={styles.topic} to={"/fly-high/lesson/instruction"}>
           <div className={styles.lessonName}>0/25</div>
           <div className={styles.card}>
             Aerodynamics
@@ -27,7 +27,7 @@ const ChoosingLesson = () => {
           </div>
         </Link>
 
-        <Link className={styles.topic} to={"/lesson/instruction"}>
+        <Link className={styles.topic} to={"/fly-high/lesson/instruction"}>
           <div className={styles.lessonName}>0/25</div>
           <div className={styles.card}>
             Aviation Legislation
@@ -37,7 +37,7 @@ const ChoosingLesson = () => {
           </div>
         </Link>
 
-        <Link className={styles.topic} to={"/lesson/instruction"}>
+        <Link className={styles.topic} to={"/fly-high/lesson/instruction"}>
           <div className={styles.lessonName}>0/25</div>
           <div className={styles.card}>
             Aircraft Construction Mechanics
@@ -47,7 +47,7 @@ const ChoosingLesson = () => {
           </div>
         </Link>
 
-        <Link className={styles.topic} to={"/lesson/instruction"}>
+        <Link className={styles.topic} to={"/fly-high/lesson/instruction"}>
           <div className={styles.lessonName}>0/25</div>
           <div className={styles.card}>
             Aircraft Construction
@@ -57,7 +57,7 @@ const ChoosingLesson = () => {
           </div>
         </Link>
 
-        <Link className={styles.topic} to={"/lesson/instruction"}>
+        <Link className={styles.topic} to={"/fly-high/lesson/instruction"}>
           <div className={styles.lessonName}>0/25</div>
           <div className={styles.card}>
             Electrical Engineering and Electronics

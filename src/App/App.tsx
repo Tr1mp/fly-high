@@ -27,27 +27,36 @@ function App() {
         <div className={styles.app}>
           <Header />
           <Routes>
-            <Route path='/login' element={<Avtorization />} />
-            <Route path='/course' element={<ChoosingCourse />} />
-            <Route path='/course/choosingLesson' element={<CourseTitle />} />
+            <Route path='/fly-high/login' element={<Avtorization />} />
+            <Route path='/fly-high//course' element={<ChoosingCourse />} />
             <Route
-              path='/course/choosingLesson/choosingTopic'
+              path='/fly-high//course/choosingLesson'
+              element={<CourseTitle />}
+            />
+            <Route
+              path='/fly-high//course/choosingLesson/choosingTopic'
               element={<CourseMaterial />}
             />
-            <Route path='/rating' element={<AllRaiting />} />
-            <Route path='/rating/personRating' element={<ProfileRating />} />
-
-            <Route path='/lesson' element={<ChoosingLesson />} />
+            <Route path='/fly-high//rating' element={<AllRaiting />} />
             <Route
-              path='/lesson/instruction'
+              path='/fly-high//rating/personRating'
+              element={<ProfileRating />}
+            />
+
+            <Route path='/fly-high//lesson' element={<ChoosingLesson />} />
+            <Route
+              path='/fly-high//lesson/instruction'
               element={<LessonsInstruction />}
             />
             <Route
-              path='/lesson/instruction/questions'
+              path='/fly-high/lesson/instruction/questions'
               element={<TextQuestions />}
             />
 
-            <Route path='*' element={<Navigate to='/course' replace />} />
+            <Route
+              path='*'
+              element={<Navigate to='/fly-high/course' replace />}
+            />
           </Routes>
         </div>
       </Router>

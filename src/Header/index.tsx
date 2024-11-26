@@ -39,7 +39,7 @@ const Header = () => {
         </ButtonGroup>
       </div>
       <div className={styles.profile}>
-        <Link to={"/profile"} className={styles.avatar}>
+        <Link to={"/fly-high/profile"} className={styles.avatar}>
           <Stack direction='row' spacing={1}>
             <Avatar alt='Ivanov Ivn' src='/static/images/avatar/1.jpg' />
           </Stack>

@@ -29,7 +29,7 @@ const LessonsInstruction = () => {
                 loading={isLoading}
                 loadingPosition='end'
                 variant='contained'
-                href={"/lesson/instruction/questions"}
+                href={"/fly-high/lesson/instruction/questions"}
               >
                 START
               </LoadingButton>

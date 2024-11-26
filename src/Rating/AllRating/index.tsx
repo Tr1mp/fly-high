@@ -31,7 +31,7 @@ const AllRaiting = () => {
     >
       <div>
         <div className={styles.leaders}>
-          <Link to={"/rating/personRating"}>1.Akimov Egor</Link>
+          <Link to={"/fly-high/rating/personRating"}>1.Akimov Egor</Link>
         </div>
         <div className={styles.leaders}>2.Varichev Georgy</div>
         <div className={styles.leaders}>3.Gayed Martin</div>
